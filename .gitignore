@@ -59,3 +59,5 @@ tmp/
 # API keys and secrets
 config.json
 secrets.json
+yolov8n.pt
+*.jpg
