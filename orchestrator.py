@@ -1,4 +1,8 @@
 # orchestrator.py
+
+# https://arxiv.org/abs/2303.04671 Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+# Source Code: https://github.com/chenfei-wu/TaskMatrix
+
 import json, os
 from tools import TOOLS, run_tool
 from rich import print
